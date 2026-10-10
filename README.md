@@ -1,13 +1,13 @@
 # Genesis 2026: Ideathon
 
-## GEN26-A0H-IXXX
+## GEN26-A0H-I171
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** CodeCrafters
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
+|   Team Leader   |      Shweta R T         |  CB.SC.U4CSE26252       |               |                 |                                   
+|    Member 2     |     Tanisha S           |  CB.SC.U4CSE26260      |                |                 |                   
+|    Member 3     |     Kanishka S           |  CB.SC.U4CSE26222     |           |                 |                                  
+|    Member 4     |  Soma Shanmukha Priya Roy |  CB.SC.U4CSE26253   |               |                 |                                  
 
